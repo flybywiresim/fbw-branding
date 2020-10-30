@@ -1,8 +1,9 @@
-![Flybywire Logo](https://raw.githubusercontent.com/flybywiresim/fbw-branding/master/png/FBW-Logo.png)
+<img src="https://raw.githubusercontent.com/flybywiresim/fbw-branding/master/png/FBW-Logo.png" placeholder="Flybywire" width="300"/>
+
 #
 ![Guidelines](https://raw.githubusercontent.com/flybywiresim/fbw-branding/master/jpg/FBW-Branding-Guidelines.jpg)
 #
-### Typeography
+### Typography
 - Aileron Font - [Download](https://www.1001fonts.com/aileron-font.html)
 #
 ### Color Palette
