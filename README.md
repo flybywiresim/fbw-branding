@@ -19,3 +19,6 @@
   - **HEX:** 545454
   - **RGB:** 84 / 84 / 84
   - **HSV:** 0 / 0 / 33
+
+  ### Contribution Guidelines
+  See [Contributing.md](https://raw.githubusercontent.com/flybywiresim/fbw-branding/master/Contributing.md)
