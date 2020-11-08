@@ -1,4 +1,5 @@
 <img src="https://raw.githubusercontent.com/flybywiresim/fbw-branding/master/png/FBW-Logo.png" placeholder="Flybywire" width="300"/>
+
 #
 ## General Rules of Contribution
 - Include source files with Pull request as well as exports of different file types.
